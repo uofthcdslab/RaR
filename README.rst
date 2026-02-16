@@ -39,7 +39,7 @@ Resources
 ---------
 
 * **Worksheet Template:** RaR_Worksheet_Template.rst, RaR_Worksheet_Template.docx
-* **Realistic Illustration:** Illustration.rst
+* **Realistic Illustration:** RaR_Worksheet_Illustration.rst
 
 Citation
 --------
