@@ -14,26 +14,26 @@ About
 -----
 
 **Context:**
-The field of HCI is rapidly adopting LLMs not just as tools, but as foundations for system-building, user proxies, and research assistants. Across these roles, the "reasoning-like" ability of LLMs is often implicitly accepted as a given meta-characteristic with minimal scrutiny. This assumption often leads to the unreflective invocation of LLMs, treating their capabilities as abstract constants rather than specific, context-dependent variables.
+The field of HCI is rapidly adopting LLMs not just as tools, but as foundations for system-building, user proxies, and research assistants. Across these roles, the "reasoning-like" ability of LLMs is often implicitly accepted as a given meta-characteristic with minimal scrutiny. This assumption often leads to the unreflective invocation of LLMs, treating their reasoning capabilities as abstract constants rather than specific, context-dependent variables.
 
 **Approach:**
 To encourage critical reflection, we developed a set of questions based on an in-depth literature review of 317 papers from major HCI venues (HCI and CSCW). We frame these questions using `Toulmin’s Layout of Arguments <https://www.semanticscholar.org/paper/The-Uses-of-Argument%2C-Updated-Edition-Toulmin/10b9b37bc77d20c4dac5031ef1fc2425e9c29b1d>`__, a method for analyzing the logic of natural language arguments. This approach moves beyond simple checklists by requiring practitioners to articulate the logical bridges between their evidence and their decisions.
 
 **Outcome:**
-We organized these questions into four sections reflecting the iterative phases of engagement with LLMs: Reasoning **Identification**, **Framing**, **Execution**, and **Evaluation**. Each question challenges the abstractions that typically decontextualize the decisions involved in these stages, forcing a more rigorous examination of *why* and *how* reasoning is being deployed.
+We organized these questions into four sections that reflect the iterative phases of engagement with LLMs: Reasoning **Identification**, **Framing**, **Execution**, and **Evaluation**. Each question challenges the abstractions that typically decontextualize the decisions involved in these stages, forcing a more rigorous examination of *why* and *how* reasoning is being deployed.
 
 How to Use
 ----------
 
 RaR utilizes **Toulmin’s Argument Model** to deconstruct methodological decisions. Unlike standard documentation, which asks *what* you did, RaR asks you to structure *why* the decision is valid.
 
-For every decision point in the worksheet, you must identify three components:
+Every response to the worksheet questions must address three components:
 
 1.  **Claim:** The specific decision or assertion you are making about the LLM's reasoning (e.g., *"We chose Chain-of-Thought prompting for this task"*).
 2.  **Support:** The facts or evidence backing this claim (e.g., *"Paper X shows CoT improves performance on GSM8K benchmarks"*).
 3.  **Warrant:** The justifying step—often implicit—that bridges the Support to the Claim (e.g., *"The reasoning required for GSM8K is a valid proxy for the reasoning required in our specific user study"*).
 
-By explicitly writing out the **Warrant**, RaR helps you identify gaps where "accepted wisdom" regarding LLM reasoning may not actually hold for your specific HCI context.
+While these cannot be distinctly articulated in many cases, by explicitly thinking about the **Warrant**, RaR helps you identify gaps where "accepted wisdom" regarding LLM reasoning may not actually hold for your specific HCI context.
 
 Resources
 ---------
