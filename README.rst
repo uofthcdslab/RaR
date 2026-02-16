@@ -1,4 +1,4 @@
-Reasoning About Reasoning (RaR)
+Reasoning About Reasoning (RaR): A Worksheet for Reflective Use of LLM Reasoning in HCI
 ===============================
 
 |DOI|
