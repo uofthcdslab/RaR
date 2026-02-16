@@ -5,7 +5,7 @@ Reasoning About Reasoning (RaR)
 
 **Reasoning About Reasoning (RaR)** is a structured worksheet designed to facilitate critical use of the "reasoning-like" behaviors of Large Language Models (LLMs) in Human-Computer Interaction (HCI).
 
-.. image:: rar.png
+.. image:: llm_reasoning_hci_abstraction.png
    :alt: Worksheet Motivation
    :align: center
    :width: 800px
@@ -38,8 +38,8 @@ While these cannot be distinctly articulated in many cases, by explicitly thinki
 Resources
 ---------
 
-* **Worksheet Template:** [Link to file/template]
-* **Realistic Illustration:** [Link to file]
+* **Worksheet Template:** RaR_Worksheet_Template.rst, RaR_Worksheet_Template.docx
+* **Realistic Illustration:** Illustration.rst
 
 Citation
 --------
