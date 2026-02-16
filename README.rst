@@ -20,7 +20,7 @@ The field of HCI is rapidly adopting LLMs not just as tools, but as foundations 
 To encourage critical reflection, we developed a set of questions based on an in-depth literature review of 317 papers from major HCI venues (HCI and CSCW). We frame these questions using `Toulmin’s Layout of Arguments <https://www.semanticscholar.org/paper/The-Uses-of-Argument%2C-Updated-Edition-Toulmin/10b9b37bc77d20c4dac5031ef1fc2425e9c29b1d>`__, a method for analyzing the logic of natural language arguments. This approach moves beyond simple checklists by requiring practitioners to articulate the logical bridges between their evidence and their decisions.
 
 **Outcome:**
-We organized these questions into four sections that reflect the iterative phases of engagement with LLMs: Reasoning **Identification**, **Framing**, **Execution**, and **Evaluation**. Each question challenges the abstractions that typically decontextualize the decisions involved in these stages, forcing a more rigorous examination of *why* and *how* reasoning is being deployed.
+We organized these questions into four sections that reflect the iterative phases of engagement with LLMs: Reasoning **Identification**, **Framing**, **Execution**, and **Evaluation**. Each question challenges the abstractions that typically decontextualize the decisions involved in these stages, encouraging a more rigorous examination of *why* and *how* reasoning is being deployed.
 
 How to Use
 ----------
