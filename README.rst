@@ -60,6 +60,6 @@ If you use this worksheet in your research, please cite the following paper (und
 **Text:**
 Mothilal, R. K., Zhang, S., Ahmed, S. I., & Guha, S. (2025). Reasoning About Reasoning: Towards Informed and Reflective Use of LLM Reasoning in HCI. arXiv preprint arXiv:2510.22978.
 
-.. |DOI| image:: https://zenodo.org/badge/DOI/10.5281/zenodo.18651267.svg
-   :target: https://doi.org/10.5281/zenodo.18651267
+.. |DOI| image:: https://zenodo.org/badge/DOI/10.5281/zenodo.18653842.svg
+   :target: https://doi.org/10.5281/zenodo.18653842
    :alt: DOI
